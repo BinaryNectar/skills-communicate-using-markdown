@@ -6,3 +6,5 @@
 ###### microscopic header
 
 1, 2, 3, all the headers you can see!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
